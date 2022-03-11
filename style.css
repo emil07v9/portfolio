@@ -1,0 +1,17 @@
+#projektnavigation {
+  display: flex;
+  width: fit-content;
+  margin-right: 5rem;
+  margin-left: 5rem;
+}
+
+img {
+  transform: skew(-0.06turn, 18deg);
+  width: 100%;
+  height: auto;
+  padding: 1rem;
+}
+
+div {
+  padding: 2rem;
+}
